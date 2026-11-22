@@ -1,0 +1,66 @@
+{
+  "name": "Wester Source",
+  "identifier": "com.wester.source",
+  "subtitle": "Relaxin + Dopamine",
+  "description": "Personal source.",
+  "iconURL": "https://avatars.githubusercontent.com/u/18235760?s=256&v=4",
+  "website": "https://github.com/opa334/Dopamine",
+  "sourceURL": "https://FILL.example/source.json",
+  "tintColor": "#E8643C",
+  "apps": [
+    {
+      "name": "Relaxin",
+      "bundleIdentifier": "FILL",
+      "developerName": "OwnGoal Studio",
+      "subtitle": "Semi-untethered jailbreak, iOS 17.0-17.3.1",
+      "localizedDescription": "Semi-untethered jailbreak built on Dopamine-roothide. Supports iOS 17.0-17.3.1 on A12-A17 Pro and M1/M2. Closed source. Superseded by Dopamine 3.0 on the same firmwares.",
+      "iconURL": "https://FILL.example/relaxin.png",
+      "tintColor": "#7A5CFA",
+      "screenshotURLs": [],
+      "version": "0.4.4",
+      "versionDate": "2026-08-07",
+      "downloadURL": "https://FILL.example/Relaxin-v.0.4.4.ipa",
+      "size": 0,
+      "versions": [
+        {
+          "version": "0.4.4",
+          "buildVersion": "FILL",
+          "date": "2026-08-07",
+          "localizedDescription": "Improved jailbreak reliability on A17 devices. Improved compatibility when automatic device analysis is unavailable. Fixed apps being modified when their launch policy should leave them unchanged. Added an animated terminal-style background on supported devices.",
+          "downloadURL": "https://FILL.example/Relaxin-v.0.4.4.ipa",
+          "size": 0,
+          "minOSVersion": "17.0",
+          "maxOSVersion": "17.3.1"
+        }
+      ],
+      "appPermissions": { "entitlements": [], "privacy": {} }
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "opa334",
+      "subtitle": "Rootless jailbreak, iOS 15-26.0.1",
+      "localizedDescription": "Open-source rootless semi-untethered jailbreak by Lars Fröder (opa334). iOS 15.0-17.3.1 on arm64e, iOS 15.0-18.7.1 on arm64, and iOS 26.0-26.0.1 on A12/A13. Works with Sileo and Zebra.",
+      "iconURL": "https://avatars.githubusercontent.com/u/18235760?s=256&v=4",
+      "tintColor": "#E8643C",
+      "screenshotURLs": [],
+      "version": "3.0.13",
+      "versionDate": "2026-11-03",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
+      "size": 0,
+      "versions": [
+        {
+          "version": "3.0.13",
+          "buildVersion": "3.0.13",
+          "date": "2026-11-03",
+          "localizedDescription": "Fix posix_spawn hook attribute struct changes persisting after return (fixes Zebra on iOS 17.6+). Improve SpringBoard snapshot redirect logic in rootlesshook.",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
+          "size": 0,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": { "entitlements": [], "privacy": {} }
+    }
+  ],
+  "news": []
+}
