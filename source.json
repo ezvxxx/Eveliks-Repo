@@ -19,6 +19,15 @@
       "author": "ezvxxx",
       "symbol": "checkmark.circle",
       "scriptURL": "https://raw.githubusercontent.com/ezvxxx/Eveliks-Repo/main/tweak-test.js"
+    },
+    {
+      "id": "com.eveliks.quick-app-open",
+      "name": "Quick App Open",
+      "description": "Experimental iOS 26-inspired speed control for Home Screen app openings. Use level 0 for 1x speed.",
+      "version": "0.1.0",
+      "author": "ezvxxx",
+      "symbol": "bolt.circle",
+      "scriptURL": "https://raw.githubusercontent.com/ezvxxx/Eveliks-Repo/main/quick-app-open.js"
     }
   ]
 }
