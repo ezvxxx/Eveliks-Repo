@@ -10,6 +10,15 @@
       "author": "ezvxxx",
       "symbol": "switch.2",
       "scriptURL": "https://raw.githubusercontent.com/ezvxxx/Eveliks-Repo/main/square-cc.js"
+    },
+    {
+      "id": "com.eveliks.tweak-test",
+      "name": "Tweak Test",
+      "description": "Logs a success message and the selected slider value. Makes no system changes.",
+      "version": "1.0.0",
+      "author": "ezvxxx",
+      "symbol": "checkmark.circle",
+      "scriptURL": "https://raw.githubusercontent.com/ezvxxx/Eveliks-Repo/main/tweak-test.js"
     }
   ]
 }
