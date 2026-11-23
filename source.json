@@ -28,6 +28,15 @@
       "author": "ezvxxx",
       "symbol": "bolt.circle",
       "scriptURL": "https://raw.githubusercontent.com/ezvxxx/Eveliks-Repo/main/quick-app-open.js"
+    },
+    {
+      "id": "com.eveliks.gravity",
+      "name": "Gravity",
+      "description": "Drops copies of your Home Screen icons in a short gravity preview. Run it and return to the Home Screen.",
+      "version": "1.0.0",
+      "author": "ezvxxx",
+      "symbol": "arrow.down.circle",
+      "scriptURL": "https://raw.githubusercontent.com/ezvxxx/Eveliks-Repo/main/gravity.js"
     }
   ]
 }
